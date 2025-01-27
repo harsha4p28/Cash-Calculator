@@ -3,7 +3,7 @@ This project is a simple Cash Calculator web application that helps users calcul
 
 ---
 
-##Features:
+## Features:
 
 
 ###1. Dynamic Total Calculation:
