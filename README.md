@@ -54,11 +54,14 @@ Dynamic functionality for calculations and the reset feature.
 
 ## File Structure:
 
-### index.html: Contains the structure of the web application.
+### index.html:
+ Contains the structure of the web application.
 
-### style.css: Defines the styling and layout of the app.
+### style.css:
+ Defines the styling and layout of the app.
 
-### main.js: Includes JavaScript logic for calculations and resetting the values.
+### main.js:
+ Includes JavaScript logic for calculations and resetting the values.
 
 ## Images:
 
