@@ -3,28 +3,32 @@ This project is a simple Cash Calculator web application that helps users calcul
 
 ---
 
-Features:
+##Features:
 
-1. Dynamic Total Calculation:
+
+###1. Dynamic Total Calculation:
 
 As users input the number of notes for each denomination, the total is automatically updated.
 
 Individual note totals are displayed next to the input fields.
 
 
-2. Reset Functionality:
+
+###2. Reset Functionality:
 
 A reset button clears all inputs and resets the total amount to zero.
 
 
-3. User-Friendly Interface:
+
+###3. User-Friendly Interface:
 
 Clean design with a gradient background.
 
 Hover effects for a more interactive user experience.
 
 
-4. Responsive Design:
+
+###4. Responsive Design:
 
 The app adapts well to various screen sizes and provides a seamless experience.
 
@@ -32,30 +36,30 @@ The app adapts well to various screen sizes and provides a seamless experience.
 
 ---
 
-Technologies Used
+##Technologies Used
 
-1. HTML:
+###1. HTML:
 
 Structure and content of the webpage.
 
 
-2. CSS:
+###2. CSS:
 
 Styling and layout, including gradients, hover effects, and shadows.
 
 
-3. JavaScript:
+###3. JavaScript:
 
 Dynamic functionality for calculations and the reset feature.
 
-File Structure:
+##File Structure:
 
-index.html: Contains the structure of the web application.
+###index.html: Contains the structure of the web application.
 
-style.css: Defines the styling and layout of the app.
+###style.css: Defines the styling and layout of the app.
 
-main.js: Includes JavaScript logic for calculations and resetting the values.
+###main.js: Includes JavaScript logic for calculations and resetting the values.
 
-Images:
+##Images:
 
 PNG images of Indian currency notes for visual aid.
